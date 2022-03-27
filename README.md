@@ -2,5 +2,5 @@
 
 ## Module 9
 
-<a href='kristenfeher.github.io/PCDE-Activity-9.1'>Repository for Module 9</a>
+<a href='https://github.com/kristenfeher/PCDE-Activity-9.1'>Repository for Module 9</a>
 
